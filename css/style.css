@@ -1,0 +1,54 @@
+.blog-1 {
+  background-image: url(https://demo.themewinter.com/wp/bascart/fashion/wp-content/themes/bascart/assets/images/bg_banner.png);
+  padding: 120px 200px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.blog-1 h1 {
+  color: white !important;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.imgBoxDownContent {
+  padding: 35px 30px;
+}
+
+.blogArea {
+  padding-top: 50px;
+}
+
+.blogArea img {
+  width: 100%;
+}
+
+.blogArea .blogInfo {
+  padding: 0px;
+}
+
+.blogArea .blogInfo li {
+  list-style: none;
+  display: inline-block;
+  padding: 10px 0px;
+  color: #808080;
+}
+
+.blogArea .blogInfo li a {
+  color: grey !important;
+  text-decoration: none;
+}
+
+.blogArea .blogInfo li a, .blogArea .blogInfo li span {
+  margin-left: 10px;
+}
+
+.blogPostBtn span {
+  margin-left: 10px;
+}
+
+.search {
+  padding: 15px;
+}
+/*# sourceMappingURL=style.css.map */
